@@ -1,6 +1,6 @@
 ### Hello Underworld
 
-My name is Lei Mao. I work on artificial intelligence, deep learning, machine learning, and accelerated computing.
+My name is Lei Mao.
 
 
 ### Recent Blog Posts
