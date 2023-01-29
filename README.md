@@ -1,8 +1,11 @@
 ### Hello Underworld
 
-My name is Lei Mao. I am an engineer and blogger. I live in the Bay Area in California.
+My name is Lei Mao.
 
-I work on artificial intelligence, deep learning, machine learning, and accelerated computing.
+I am an engineer and blogger.
+
+I live in the Bay Area in California.
+
 
 ### Recent Blog Posts
 
