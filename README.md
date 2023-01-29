@@ -3,7 +3,7 @@
 My name is Lei Mao.
 
 
-### Blog posts
+### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [C++ Base Class Destructors](https://leimao.github.io/blog/CPP-Base-Class-Destructors/)
