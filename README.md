@@ -1,7 +1,8 @@
 ### Hello Underworld
 
-My name is Lei Mao.
+My name is Lei Mao. I am an engineer and blogger. I live in the Bay Area in California.
 
+I work on artificial intelligence, deep learning, machine learning, and accelerated computing.
 
 ### Recent Blog Posts
 
