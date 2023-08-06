@@ -22,3 +22,4 @@ jobs:
         uses: leimao/blog-post-workflow@v1
         with:
           feed_list: "https://leimao.github.io/feed.xml"
+          max_post_count: 6
