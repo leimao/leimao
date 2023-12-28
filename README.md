@@ -13,5 +13,5 @@
 - [Nsight Compute In Docker](https://leimao.github.io/blog/Docker-Nsight-Compute/)
 - [How To Debug Deep Learning Inference Applications](https://leimao.github.io/article/How-To-Debug-Deep-Learning-Inference-Applications/)
 - [美国加州民众跑鞋](https://leimao.github.io/essay/%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E6%B0%91%E4%BC%97%E8%B7%91%E9%9E%8B/)
-- [Numerical Errors In HPC and Deep Learning](https://leimao.github.io/blog/Numerical-Errors-In-HPC-Deep-Learning/)
+- [丁胖子金牌讲师徒步环游美国](https://leimao.github.io/essay/%E4%B8%81%E8%83%96%E5%AD%90%E9%87%91%E7%89%8C%E8%AE%B2%E5%B8%88%E5%BE%92%E6%AD%A5%E7%8E%AF%E6%B8%B8%E7%BE%8E%E5%9B%BD/)
 <!-- BLOG-POST-LIST:END -->
