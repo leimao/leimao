@@ -9,9 +9,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TensorRT Custom Plugin Example](https://leimao.github.io/blog/TensorRT-Custom-Plugin-Example/)
+- [华中农业大学硕博联合实名举报导师黄飞若学术造假](https://leimao.github.io/essay/%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%8D%9A%E8%81%94%E5%90%88%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E9%BB%84%E9%A3%9E%E8%8B%A5%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87/)
 - [CUDA Matrix Multiplication Optimization](https://leimao.github.io/article/CUDA-Matrix-Multiplication-Optimization/)
 - [C++ Centering String With Padding Characters](https://leimao.github.io/blog/CPP-Center-String-With-Padding-Characters/)
 - [2023 年跑步总结](https://leimao.github.io/essay/2023%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/)
 - [CUDA Vectorized Memory Access](https://leimao.github.io/blog/CUDA-Vectorized-Memory-Access/)
-- [Garmin Forerunner 265S](https://leimao.github.io/blog/Garmin-Forerunner-265S/)
 <!-- BLOG-POST-LIST:END -->
