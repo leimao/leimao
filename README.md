@@ -8,7 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Marginal Likelihood Estimation](https://leimao.github.io/blog/Marginal-Likelihood-Estimation/)
+- [汽车玻璃不要贴膜](https://leimao.github.io/essay/%E6%B1%BD%E8%BD%A6%E7%8E%BB%E7%92%83%E4%B8%8D%E8%A6%81%E8%B4%B4%E8%86%9C/)
 - [开车防止犯困的物品](https://leimao.github.io/essay/%E5%BC%80%E8%BD%A6%E9%98%B2%E6%AD%A2%E7%8A%AF%E5%9B%B0%E7%9A%84%E7%89%A9%E5%93%81/)
 - [Expectation Maximization Algorithm](https://leimao.github.io/blog/Expectation-Maximization-Algorithm/)
 - [Santana Row 徒步](https://leimao.github.io/life/Santana-Row/)
