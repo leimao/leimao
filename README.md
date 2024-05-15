@@ -11,9 +11,9 @@
 - [TensorRT Python Inference](https://leimao.github.io/blog/TensorRT-Python-Inference/)
 - [CUDA Shared Memory Swizzling](https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/)
 - [北海道牛乳](https://leimao.github.io/essay/%E5%8C%97%E6%B5%B7%E9%81%93%E7%89%9B%E4%B9%B3/)
+- [Campbell Community Center 训练](https://leimao.github.io/life/Campbell-Community-Center-Track-Training-2024-05-13/)
 - [Santa Clara Central Park 徒步](https://leimao.github.io/life/Santa-Clara-Central-Park/)
 - [Campbell Community Center 训练](https://leimao.github.io/life/Campbell-Community-Center-Track-Training-2024-05-11/)
 - [Campbell Community Center 训练](https://leimao.github.io/life/Campbell-Community-Center-Track-Training-2024-05-09/)
 - [Reparameterization Trick](https://leimao.github.io/blog/Reparameterization-Trick/)
-- [高达 SEED 2024 剧场版湾区观影](https://leimao.github.io/essay/Gundam-SEED-2024%E5%89%A7%E5%9C%BA%E7%89%88-%E6%B9%BE%E5%8C%BA%E8%A7%82%E5%BD%B1/)
 <!-- BLOG-POST-LIST:END -->
