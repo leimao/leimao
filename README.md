@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Variational Autoencoder](https://leimao.github.io/blog/Variational-Autoencoder/)
 - [炸鸡奇遇记](https://leimao.github.io/essay/%E7%82%B8%E9%B8%A1%E5%A5%87%E9%81%87%E8%AE%B0-Chicken-Nugget/)
 - [回忆 2015 年南加州之行](https://leimao.github.io/essay/%E5%9B%9E%E5%BF%862015%E5%B9%B4%E5%8D%97%E5%8A%A0%E5%B7%9E%E4%B9%8B%E8%A1%8C/)
 - [Multilingual Issues with Snap Applications on Linux](https://leimao.github.io/blog/Multilingual-Issues-Snap-Applications-Linux/)
@@ -15,5 +16,4 @@
 - [Cupertino Memorial Park 徒步](https://leimao.github.io/life/Cupertino-Memorial-Park/)
 - [PyTorch Eager Mode Quantization TensorRT Acceleration](https://leimao.github.io/blog/PyTorch-Eager-Mode-Quantization-TensorRT-Acceleration/)
 - [2024 年我的跑步竞速装备](https://leimao.github.io/essay/2024%E5%B9%B4%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E7%AB%9E%E9%80%9F%E8%A3%85%E5%A4%87/)
-- [TensorRT Python Inference](https://leimao.github.io/blog/TensorRT-Python-Inference/)
 <!-- BLOG-POST-LIST:END -->
