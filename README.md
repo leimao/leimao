@@ -14,6 +14,6 @@
 - [2024 Alameda July 4th Parade 观摩](https://leimao.github.io/life/2024-Alameda-July-4th-Parade/)
 - [义和团运动](https://leimao.github.io/essay/%E4%B9%89%E5%92%8C%E5%9B%A2%E8%BF%90%E5%8A%A8/)
 - [Open-Loop VS Closed-Loop](https://leimao.github.io/blog/Open-Loop-VS-Closed-Loop/)
-- [History San Jose 徒步](https://leimao.github.io/life/History-San-Jose/)
 - [Japanese Friendship Garden 徒步](https://leimao.github.io/life/Japanese-Friendship-Garden/)
+- [History San Jose 徒步](https://leimao.github.io/life/History-San-Jose/)
 <!-- BLOG-POST-LIST:END -->
