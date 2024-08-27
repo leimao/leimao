@@ -8,12 +8,12 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Testing Exception Throws?](https://leimao.github.io/blog/Why-Testing-Exception-Throws/)
+- [2024 年 7 月和 8 月该入手的模型手办](https://leimao.github.io/essay/2024%E5%B9%B47%E6%9C%88%E5%92%8C8%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/)
 - [Bazel Test Outputs](https://leimao.github.io/blog/Bazel-Test-Outputs/)
 - [2024 King Tut Festival 游览](https://leimao.github.io/life/2024-King-Tut-Festival/)
 - [Huckleberry Botanic Regional Preserve 徒步](https://leimao.github.io/life/Huckleberry-Botanic-Regional-Preserve/)
 - [比利·麦尔的外星人骗局](https://leimao.github.io/essay/Billy-Meier-%E9%AA%97%E5%B1%80/)
 - [Optimal Codeword Length](https://leimao.github.io/blog/Optimal-Codeword-Length/)
 - [2024 Alameda Island Running Festival Half Marathon 竞赛](https://leimao.github.io/life/2024-Alameda-Island-Running-Festival/)
-- [山西非法收购遗体案件](https://leimao.github.io/essay/%E5%B1%B1%E8%A5%BF%E9%9D%9E%E6%B3%95%E6%94%B6%E8%B4%AD%E9%81%97%E4%BD%93%E4%BA%8B%E4%BB%B6/)
-- [Alameda Former Naval Air Station 徒步](https://leimao.github.io/life/Alameda-Former-Naval-Air-Station/)
 <!-- BLOG-POST-LIST:END -->
