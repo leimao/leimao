@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Removing Non-Executable Dead Code](https://leimao.github.io/blog/Removing-Non-Executable-Dead-Code/)
 - [Half Moon Bay State Beach 徒步](https://leimao.github.io/life/Half-Moon-Bay-State-Beach/)
 - [圣荷西谋杀案](https://leimao.github.io/essay/%E5%9C%A3%E8%8D%B7%E8%A5%BF%E8%B0%8B%E6%9D%80%E6%A1%88-Fatal-Visit/)
 - [Why Testing Exception Throws?](https://leimao.github.io/blog/Why-Testing-Exception-Throws/)
@@ -15,5 +16,4 @@
 - [Bazel Test Outputs](https://leimao.github.io/blog/Bazel-Test-Outputs/)
 - [2024 King Tut Festival 游览](https://leimao.github.io/life/2024-King-Tut-Festival/)
 - [Huckleberry Botanic Regional Preserve 徒步](https://leimao.github.io/life/Huckleberry-Botanic-Regional-Preserve/)
-- [比利·麦尔的外星人骗局](https://leimao.github.io/essay/Billy-Meier-%E9%AA%97%E5%B1%80/)
 <!-- BLOG-POST-LIST:END -->
