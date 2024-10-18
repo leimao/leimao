@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [非豪华汽车保养服务消费降级](https://leimao.github.io/essay/%E9%9D%9E%E8%B1%AA%E5%8D%8E%E6%B1%BD%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7/)
 - [Sobel Operator](https://leimao.github.io/blog/Sobel-Operator/)
 - [2024 San Francisco Fleet Week USS Somerset Ship Tour](https://leimao.github.io/life/2024-San-Francisco-Fleet-Week-USS-Somerset-Ship-Tour/)
 - [2024 San Francisco Fleet Week USS Tripoli Ship Tour](https://leimao.github.io/life/2024-San-Francisco-Fleet-Week-USS-Tripoli-Ship-Tour/)
@@ -15,5 +16,4 @@
 - [Python No-GIL](https://leimao.github.io/blog/Python-No-GIL/)
 - [Rock &#39;n&#39; Roll San Jose 2024 Half Marathon 竞赛](https://leimao.github.io/life/Rock-n-Roll-San-Jose-2024-Half-Marathon/)
 - [Las Palmas Park 徒步](https://leimao.github.io/life/Las-Palmas-Park/)
-- [East Bay Regional Park Trails Challenge 2024](https://leimao.github.io/essay/East-Bay-Regional-Park-Trails-Challenge-2024/)
 <!-- BLOG-POST-LIST:END -->
