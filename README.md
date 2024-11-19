@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Setup In Docker](https://leimao.github.io/blog/Docker-Python-Setup/)
 - [汉堡王百万美元皇堡竞赛优胜候选品尝](https://leimao.github.io/essay/Burger-King-Million-Dollar-Whopper-Contest/)
 - [Raptor Fest at Rancho San Vicente 参观](https://leimao.github.io/life/Raptor-Fest-Rancho-San-Vicente/)
 - [Build and Develop CUTLASS CUDA Kernels](https://leimao.github.io/blog/Build-Develop-CUTLASS-CUDA-Kernels/)
@@ -15,5 +16,4 @@
 - [New York City Marathon 2024 Winner Running Shoes](https://leimao.github.io/blog/New-York-City-Marathon-2024-Winner-Running-Shoes/)
 - [Big Canyon Park 徒步](https://leimao.github.io/life/Big-Canyon-Park/)
 - [Eaton Park 徒步](https://leimao.github.io/life/Eaton-Park/)
-- [GoogleTest Using CMake](https://leimao.github.io/blog/GoogleTest-CMake/)
 <!-- BLOG-POST-LIST:END -->
