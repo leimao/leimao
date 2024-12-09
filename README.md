@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 Midway Shelter Winter Run 10K 竞赛](https://leimao.github.io/life/2024-Midway-Shelter-Winter-Run/)
 - [SMPlayer GPU Acceleration](https://leimao.github.io/blog/SMPlayer-GPU-Acceleration/)
 - [红天鹅](https://leimao.github.io/essay/%E7%BA%A2%E5%A4%A9%E9%B9%85-Red-Swarn/)
 - [CuTe Swizzle](https://leimao.github.io/blog/CuTe-Swizzle/)
@@ -15,5 +16,4 @@
 - [San Mateo County History Museum 参观](https://leimao.github.io/life/San-Mateo-County-History-Museum/)
 - [Monterey Bay Coastal Trail 徒步](https://leimao.github.io/life/Monterey-Bay-Coastal-Trail/)
 - [Monterey Cannery Row 徒步](https://leimao.github.io/life/Monterey-Cannery-Row/)
-- [Monterey Bay Aquarium 参观](https://leimao.github.io/life/Monterey-Bay-Aquarium/)
 <!-- BLOG-POST-LIST:END -->
