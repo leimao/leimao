@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [神秘窥视](https://leimao.github.io/essay/The-Watchers-2024/)
 - [Ubuntu 24.04 LTS GUI File Operation Slowness](https://leimao.github.io/blog/Ubuntu-2404-LTS-GUI-File-Operation-Slowness/)
 - [cuBLAS GEMM API Usages for Column-Major and Row-Major Matrices](https://leimao.github.io/blog/cuBLAS-Transpose-Column-Major-Relationship/)
 - [真相背后](https://leimao.github.io/essay/%E7%9C%9F%E7%9B%B8%E8%83%8C%E5%90%8E-2024/)
@@ -15,5 +16,4 @@
 - [SMPlayer GPU Acceleration](https://leimao.github.io/blog/SMPlayer-GPU-Acceleration/)
 - [红天鹅](https://leimao.github.io/essay/%E7%BA%A2%E5%A4%A9%E9%B9%85-Red-Swarn/)
 - [CuTe Swizzle](https://leimao.github.io/blog/CuTe-Swizzle/)
-- [破墓](https://leimao.github.io/essay/%E7%A0%B4%E5%A2%93-Exhuma/)
 <!-- BLOG-POST-LIST:END -->
