@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [凯多湖的消失](https://leimao.github.io/essay/Caddo-Lake-2024/)
 - [NVIDIA GPU Compute Capability](https://leimao.github.io/blog/NVIDIA-GPU-Compute-Capability/)
 - [AWQ: Activation-Aware Weight Quantization](https://leimao.github.io/blog/AWQ-Activation-Aware-Weight-Quantization/)
 - [2025 Brazen New Year&#39;s Day 10K 竞赛](https://leimao.github.io/life/2025-Brazen-New-Year-Day-10K/)
@@ -15,5 +16,4 @@
 - [Robert Woolley State Park 徒步](https://leimao.github.io/life/Robert-Woolley-State-Park/)
 - [异教徒](https://leimao.github.io/essay/Heretic-2024/)
 - [NeurIPS 2024 Area Chair Experience](https://leimao.github.io/blog/NeurIPS-2024-Area-Chair-Experience/)
-- [致命 ID](https://leimao.github.io/essay/Identity-2003/)
 <!-- BLOG-POST-LIST:END -->
