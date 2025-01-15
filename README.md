@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CS2 Mouse Fix](https://leimao.github.io/blog/CS2-Mouse-Fix/)
 - [麦当劳的菜品数量](https://leimao.github.io/essay/%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%9A%84%E8%8F%9C%E5%93%81%E6%95%B0%E9%87%8F/)
 - [Carquinez Strait Regional Shoreline Park West 徒步](https://leimao.github.io/life/Carquinez-Strait-Regional-Shoreline-Park-West/)
 - [CuTe Tiled MMA](https://leimao.github.io/blog/CuTe-Tiled-MMA/)
@@ -15,5 +16,4 @@
 - [Garin Regional Park East 徒步](https://leimao.github.io/life/Garin-Regional-Park-East/)
 - [凯多湖的消失](https://leimao.github.io/essay/Caddo-Lake-2024/)
 - [NVIDIA GPU Compute Capability](https://leimao.github.io/blog/NVIDIA-GPU-Compute-Capability/)
-- [AWQ: Activation-Aware Weight Quantization](https://leimao.github.io/blog/AWQ-Activation-Aware-Weight-Quantization/)
 <!-- BLOG-POST-LIST:END -->
