@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dell Reboot Performs Shutdown Issue](https://leimao.github.io/blog/Dell-Reboot-Performs-Shutdown-Issue/)
 - [凶兆前传](https://leimao.github.io/essay/The-First-Omen-2024/)
 - [Sibley Volcanic Regional Preserve 徒步](https://leimao.github.io/life/Sibley-Volcanic-Regional-Preserve/)
 - [C++ Load and Save Npy File Load Using xtensor](https://leimao.github.io/blog/CPP-Npy-Load-Save-xtensor/)
@@ -15,5 +16,4 @@
 - [2025 Brazen Bay Breeze 5K 竞赛](https://leimao.github.io/life/2025-Brazen-Bay-Breeze-5K/)
 - [Shadow Cliffs Regional Recreation Area 徒步](https://leimao.github.io/life/Shadow-Cliffs-Regional-Recreation-Area/)
 - [Get Available Versions for Python Pip Package](https://leimao.github.io/blog/Python-Pip-Package-Get-Available-Versions/)
-- [Dallas Mavericks 的伪君子老板 Patrick Dumont](https://leimao.github.io/essay/Dallas-Mavericks-Hypocritical-Owner-Patrick-Dumont/)
 <!-- BLOG-POST-LIST:END -->
