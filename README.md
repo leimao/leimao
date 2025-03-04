@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Field of View](https://leimao.github.io/blog/Field-of-View/)
 - [Habit Burger &amp; Grill 初体验](https://leimao.github.io/essay/Habit-Burger-Grill-%E5%88%9D%E4%BD%93%E9%AA%8C/)
 - [2025 Brazen Victory 10K 竞赛](https://leimao.github.io/life/2025-Brazen-Victory-10K/)
 - [Firefox Installation In Ubuntu 24.04 Docker Images](https://leimao.github.io/blog/Ubuntu-2404-Docker-Firefox-Installation/)
@@ -15,5 +16,4 @@
 - [老枪](https://leimao.github.io/essay/%E8%80%81%E6%9E%AA-A-Long-Shot-2023/)
 - [Depth of Field](https://leimao.github.io/blog/Depth-of-Field/)
 - [斗鱼影视区的华语电影全面下架](https://leimao.github.io/essay/%E6%96%97%E9%B1%BC%E5%BD%B1%E8%A7%86%E5%8C%BA%E7%9A%84%E5%8D%8E%E8%AF%AD%E7%94%B5%E5%BD%B1%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6/)
-- [Tilden Regional Park East 徒步](https://leimao.github.io/life/Tilden-Regional-Park-East/)
 <!-- BLOG-POST-LIST:END -->
