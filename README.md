@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CUDA Performance Hot VS Cold Measurement](https://leimao.github.io/blog/CUDA-Performance-Hot-Cold-Measurement/)
 - [峡谷](https://leimao.github.io/essay/The-Gorge-2025/)
 - [Sycamore Valley Open Space Regional Preserve 徒步](https://leimao.github.io/life/Sycamore-Valley-Open-Space-Regional-Preserve/)
 - [Filing Claims for USPS Missing Parcels](https://leimao.github.io/blog/USPS-Filing-Claims-Missing-Parcels/)
@@ -15,5 +16,4 @@
 - [Field of View](https://leimao.github.io/blog/Field-of-View/)
 - [Habit Burger &amp; Grill 初体验](https://leimao.github.io/essay/Habit-Burger-Grill-%E5%88%9D%E4%BD%93%E9%AA%8C/)
 - [2025 Brazen Victory 10K 竞赛](https://leimao.github.io/life/2025-Brazen-Victory-10K/)
-- [Firefox Installation In Ubuntu 24.04 Docker Images](https://leimao.github.io/blog/Ubuntu-2404-Docker-Firefox-Installation/)
 <!-- BLOG-POST-LIST:END -->
