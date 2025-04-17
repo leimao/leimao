@@ -4,9 +4,9 @@ on:
     # Runs every hour, on the hour.
     # - cron: '0 * * * *'
     # Run every 5 minutes.
-    - cron: "*/5 * * * *"
+    # - cron: "*/5 * * * *"
     # At the beginning of every day.
-    # - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 permissions:
   # To write the generated contents to the README.
   contents: write
