@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [《海底两万里》1954 年版电影](https://leimao.github.io/essay/Twenty-Thousand-Leagues-Under-The-Sea-1954/)
 - [Garmin Forerunner 265S Charging Problem](https://leimao.github.io/blog/Garmin-Forerunner-265S-Charging-Problem/)
 - [Pinnacles National Park 徒步](https://leimao.github.io/life/Pinnacles-National-Park-2025-04-19/)
 - [LF VS CRLF](https://leimao.github.io/blog/LF-VS-CRLF/)
@@ -15,5 +16,4 @@
 - [2025 Airport Runway Run at San Carlos Airport 5K 竞赛](https://leimao.github.io/life/2025-Airport-Runway-Run-San-Carlos-Airport-5K/)
 - [Automatic Differentiation Revisited](https://leimao.github.io/blog/Automatic-Differentiation-Revisited/)
 - [Brooks Island Regional Preserve 徒步](https://leimao.github.io/life/Brooks-Island-Regional-Preserve/)
-- [京东脂肪险](https://leimao.github.io/essay/%E4%BA%AC%E4%B8%9C%E8%84%82%E8%82%AA%E9%99%A9/)
 <!-- BLOG-POST-LIST:END -->
