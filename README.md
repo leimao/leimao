@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [恶行之外](https://leimao.github.io/essay/%E6%81%B6%E8%A1%8C%E4%B9%8B%E5%A4%96-Beyond-The-Sin-2025/)
 - [Model Context Protocol &lpar;MCP&rpar;](https://leimao.github.io/blog/Model-Context-Protocol/)
 - [Baylands Nature Preserve](https://leimao.github.io/photography/Baylands-Nature-Preserve/)
 - [California Fresno 自驾游](https://leimao.github.io/life/California-Fresno-2025-Trip/)
@@ -15,5 +16,4 @@
 - [Garin Regional Park West](https://leimao.github.io/photography/Garin-Regional-Park-West/)
 - [Hotel Wi-Fi Connection and Authentication Fix](https://leimao.github.io/blog/Fix-Hotel-Wi-Fi-Connection-Authentication/)
 - [Garin Regional Park West 徒步](https://leimao.github.io/life/Garin-Regional-Park-West/)
-- [鱿鱼游戏](https://leimao.github.io/essay/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F-Squid-Game/)
 <!-- BLOG-POST-LIST:END -->
