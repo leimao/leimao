@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tamron 镜头文字掉漆](https://leimao.github.io/essay/Tamron%E9%95%9C%E5%A4%B4%E6%96%87%E5%AD%97%E6%8E%89%E6%BC%86/)
 - [Pinnacles National Park](https://leimao.github.io/photography/Pinnacles-National-Park-2025-09-27/)
 - [AddressSanitizer](https://leimao.github.io/blog/AddressSanitizer/)
 - [Pinnacles National Park 徒步](https://leimao.github.io/life/Pinnacles-National-Park-2025-09-27/)
@@ -15,5 +16,4 @@
 - [NeurIPS 2025 Area Chair Experience](https://leimao.github.io/blog/NeurIPS-2025-Area-Chair-Experience/)
 - [2025 Alameda Island Running Festival 10K 竞赛](https://leimao.github.io/life/2025-Alameda-Island-Running-Festival/)
 - [Fremont Central Park](https://leimao.github.io/photography/Fremont-Central-Park-2025-09-20/)
-- [Fremont Central Park 徒步](https://leimao.github.io/life/Fremont-Central-Park/)
 <!-- BLOG-POST-LIST:END -->
