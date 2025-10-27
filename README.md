@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 Pleasanton Rotary Halloween Spirit Run 10K 竞赛](https://leimao.github.io/life/2025-Pleasanton-Rotary-Halloween-Spirit-Run-10K/)
 - [CuTe Arithmetic Tuple Tensor](https://leimao.github.io/blog/CuTe-Arithmetic-Tuple-Tensor/)
 - [第一次使用摄影独脚架的感受](https://leimao.github.io/essay/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%91%84%E5%BD%B1%E7%8B%AC%E8%84%9A%E6%9E%B6%E7%9A%84%E6%84%9F%E5%8F%97/)
 - [Don Edwards San Francisco Bay National Wildlife Refuge - Ravenswood](https://leimao.github.io/photography/Don-Edwards-San-Francisco-Bay-National-Wildlife-Refuge-Ravenswood-2025-10-18/)
@@ -15,5 +16,4 @@
 - [Don Edwards San Francisco Bay National Wildlife Refuge - Ravenswood 徒步](https://leimao.github.io/life/Don-Edwards-San-Francisco-Bay-National-Wildlife-Refuge-Ravenswood-2025-10-18/)
 - [Ravenswood Open Space Preserve 徒步](https://leimao.github.io/life/Ravenswood-Open-Space-Preserve-2025-10-18/)
 - [CuTe Tiled Copy](https://leimao.github.io/blog/CuTe-Tiled-Copy/)
-- [单车开启 B 站直播](https://leimao.github.io/essay/%E5%8D%95%E8%BD%A6%E5%BC%80%E5%90%AFB%E7%AB%99%E7%9B%B4%E6%92%AD/)
 <!-- BLOG-POST-LIST:END -->
