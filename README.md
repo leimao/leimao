@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [指甲盖下的淤血](https://leimao.github.io/essay/%E6%8C%87%E7%94%B2%E7%9B%96%E4%B8%8B%E7%9A%84%E6%B7%A4%E8%A1%80/)
 - [NVIDIA NVML GPU Statistics](https://leimao.github.io/blog/NVIDIA-NVML-GPU-Statistics/)
 - [Los Gatos Creek County Park](https://leimao.github.io/photography/Los-Gatos-Creek-County-Park-2025-12-20/)
 - [Sony Float Run Open-Ear Wireless Headphones](https://leimao.github.io/essay/Sony-Float-Run-Open-Ear-Wireless-Headphones/)
@@ -15,5 +16,4 @@
 - [Radix Sort](https://leimao.github.io/blog/Radix-Sort/)
 - [Sony Walkman NW-WS413](https://leimao.github.io/essay/Sony-Walkman-NW-WS413/)
 - [Ardenwood Historic Farm](https://leimao.github.io/photography/Ardenwood-Historic-Farm-2025-12-13/)
-- [Don Edwards San Francisco Bay National Wildlife Refuge](https://leimao.github.io/photography/Don-Edwards-San-Francisco-Bay-National-Wildlife-Refuge-2025-12-13/)
 <!-- BLOG-POST-LIST:END -->
