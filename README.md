@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [拖车公司的大汉们](https://leimao.github.io/essay/%E6%8B%96%E8%BD%A6%E5%85%AC%E5%8F%B8%E7%9A%84%E5%A4%A7%E6%B1%89%E4%BB%AC/)
 - [PyTorch CUDA Graph Capture](https://leimao.github.io/blog/PyTorch-CUDA-Graph-Capture/)
 - [Brushy Peak Regional Preserve 徒步](https://leimao.github.io/life/Brushy-Peak-Regional-Preserve-2026-01-10/)
 - [Brushy Peak Regional Preserve](https://leimao.github.io/photography/Brushy-Peak-Regional-Preserve-2026-01-10/)
@@ -15,5 +16,4 @@
 - [Disqus Affiliate Links URL Hijacking](https://leimao.github.io/blog/Disqus-Affiliate-Links-URL-Hijacking/)
 - [California Point Reyes 自驾游](https://leimao.github.io/life/California-Point-Reyes-2025-Trip/)
 - [Inspecting and Visualizing Torch FX Graph](https://leimao.github.io/blog/Inspecting-Visualizing-Torch-FX-Graph/)
-- [2025 年 11 月和 12 月该入手的模型手办](https://leimao.github.io/essay/2025%E5%B9%B411%E6%9C%88%E5%92%8C12%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/)
 <!-- BLOG-POST-LIST:END -->
