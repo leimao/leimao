@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [狗的素质等于人的素质](https://leimao.github.io/essay/%E7%8B%97%E7%9A%84%E7%B4%A0%E8%B4%A8%E7%AD%89%E4%BA%8E%E4%BA%BA%E7%9A%84%E7%B4%A0%E8%B4%A8/)
 - [CUDA Rendezvous Stream](https://leimao.github.io/blog/CUDA-Rendezvous-Stream/)
 - [Pleasanton Ridge Regional Park 徒步](https://leimao.github.io/life/Pleasanton-Ridge-Regional-Park-2026-01-24/)
 - [Pleasanton Ridge Regional Park](https://leimao.github.io/photography/Pleasanton-Ridge-Regional-Park-2026-01-24/)
@@ -15,5 +16,4 @@
 - [Randomized SVD](https://leimao.github.io/blog/Randomized-SVD/)
 - [Don Castro Regional Recreation Area 徒步](https://leimao.github.io/life/Don-Castro-Regional-Recreation-Area-2026-01-17/)
 - [Don Castro Regional Recreation Area](https://leimao.github.io/photography/Don-Castro-Regional-Recreation-Area-2026-01-17/)
-- [拖车公司的大汉们](https://leimao.github.io/essay/%E6%8B%96%E8%BD%A6%E5%85%AC%E5%8F%B8%E7%9A%84%E5%A4%A7%E6%B1%89%E4%BB%AC/)
 <!-- BLOG-POST-LIST:END -->
