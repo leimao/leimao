@@ -8,12 +8,12 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Retaining EXIF Metadata In GIMP](https://leimao.github.io/blog/GIMP-Retain-EXIF/)
+- [San Francisquito Creek Joint Powers Authority 2025 Calendar Photo](https://leimao.github.io/photography/San-Francisquito-Creek-Joint-Powers-Authority-Calendar-Photo-2025/)
+- [麦当劳 The FIFA World Cup 套餐](https://leimao.github.io/essay/Mcdonalds-The-FIFA-World-Cup-Meal/)
+- [Ardenwood Historic Farm 徒步](https://leimao.github.io/life/Ardenwood-Historic-Farm-2026-06-06/)
+- [Ardenwood Historic Farm](https://leimao.github.io/photography/Ardenwood-Historic-Farm-2026-06-06/)
 - [Synchronizations With TorchRec KeyedJaggedTensor](https://leimao.github.io/blog/TorchRec-KeyedJaggedTensor-Synchronizations/)
 - [Pacific Commons Linear Park 徒步](https://leimao.github.io/life/Pacific-Commons-Linear-Park-2026-06-01/)
 - [Pacific Commons Linear Park](https://leimao.github.io/photography/Pacific-Commons-Linear-Park-2026-06-01/)
-- [2026 San Jose Half Marathon 竞赛](https://leimao.github.io/life/2026-San-Jose-Half-Marathon/)
-- [目标](https://leimao.github.io/essay/%E7%9B%AE%E6%A0%87-Target-2023/)
-- [Mountain View Shoreline Park 徒步](https://leimao.github.io/life/Mountain-View-Shoreline-Park-2026-05-30/)
-- [Mountain View Shoreline Park](https://leimao.github.io/photography/Mountain-View-Shoreline-Park-2026-05-30/)
-- [PyTorch AOTInductor Hybrid Lowering](https://leimao.github.io/blog/PyTorch-AOTInductor-Hybrid-Lowering/)
 <!-- BLOG-POST-LIST:END -->
