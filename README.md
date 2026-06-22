@@ -8,6 +8,7 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The City Eats &amp; Stack Run Club - Hayward 5K 竞赛](https://leimao.github.io/life/2026-The-City-Eats-Stack-Run-Club-Hayward-5K/)
 - [Las Trampas Wilderness Regional Preserve 徒步](https://leimao.github.io/life/Las-Trampas-Wilderness-Regional-Preserve-2026-06-19/)
 - [Las Trampas Wilderness Regional Preserve](https://leimao.github.io/photography/Las-Trampas-Wilderness-Regional-Preserve-2026-06-19/)
 - [2026 FIFA World Cup 备受嘲讽的会徽](https://leimao.github.io/essay/2026-FIFA-World-Cup-Mocked-Emblem/)
@@ -15,5 +16,4 @@
 - [Vargas Plateau Regional Park 徒步](https://leimao.github.io/life/Vargas-Plateau-Regional-Park-2026-06-13/)
 - [Vargas Plateau Regional Park](https://leimao.github.io/photography/Vargas-Plateau-Regional-Park-2026-06-13/)
 - [Apex](https://leimao.github.io/essay/Apex-2026/)
-- [2026 FIFA World Cup 小组赛赛程](https://leimao.github.io/essay/2026-FIFA-World-Cup-Group-Matches/)
 <!-- BLOG-POST-LIST:END -->
